@@ -1,0 +1,6 @@
+GPU + Webcam = 5.500.000
+GPU = 5.000.000 + Webcam
+GPU - Webcam  = 5.000.000
+2GPU = 10.500.000
+GPU = 5.250.000
+Webcam = 250.000

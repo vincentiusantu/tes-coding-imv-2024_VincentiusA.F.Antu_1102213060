@@ -1,0 +1,11 @@
+Ari, Bani, Cia, Danny, dan Elang.
+Ari menghabiskan apelnya sebelum Elang tetapi setelah Cia.
+(Cia -> Ari -> Elang)
+Bani menghabiskannya setelah Danny.
+(Danny -> Bani)
+Cia menghabiskan apelnya setelah Danny sebelum Bani.
+(Danny -> Cia -> Bani)
+
+Jawaban:
+Danny -> Cia -> Ari ->.....
+Urutan ketiga = Ari

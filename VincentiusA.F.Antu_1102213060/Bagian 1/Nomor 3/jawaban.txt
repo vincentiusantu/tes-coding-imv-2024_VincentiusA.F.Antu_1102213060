@@ -1,0 +1,12 @@
+Hari : "Salah satu pernyataan yang saya katakan adalah benar, yaitu Budi adalah pencuri atau saya adalah polisi"
+
+Lestari : "Hari bisa saja menuduh bahwa saya adalah pencuri"
+
+Budi : "Lestari dan Hari bukanlah seorang polisi"
+
+Budi berkata tanpa kemungkinan
+Lestari tidak memberikan pernyataan tentang polisi dan pencuri
+Hari bisa saja menuduh
+
+Polisi selalu berkata jujur dan pencuri selalu berkata bohong
+Jadi Budi adalah polisi dan Hari adalah pencuri
